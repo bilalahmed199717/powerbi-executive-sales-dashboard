@@ -1,5 +1,3 @@
-# powerbi-executive-sales-dashboard
-Interactive Power BI dashboard for analysing revenue, profit, return rates, pricing scenarios, and product performance.
 # Executive Sales Dashboard | Power BI
 
 An interactive Power BI dashboard designed to help business stakeholders monitor sales performance, profitability, product returns, and pricing scenarios.
